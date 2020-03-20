@@ -32,4 +32,4 @@ For now I uploaded only an Arduino Code to read imu raw data from altimu 10 v5 a
 
 6. Finally To visualize The data ;
 
-   `rosrun rviz rviz`
+   `rosrun rviz rviz`# TUBerlin_Intern
